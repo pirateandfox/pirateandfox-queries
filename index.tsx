@@ -1,4 +1,4 @@
-const {gql} = require('graphql-tag')
+import gql from 'graphql-tag'
 
 // language=GraphQL
 export const User = gql `
