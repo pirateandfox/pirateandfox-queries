@@ -2,7 +2,7 @@
   "name": "pirateandfox-queries",
   "version": "1.0.0",
   "description": "Collection of all Queries for Pirate & Fox",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "test": "test"
   },
@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "graphql-tag": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.2"
   }
 }
