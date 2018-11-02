@@ -1,0 +1,14 @@
+{
+  "name": "pirateandfox-queries",
+  "version": "1.0.0",
+  "description": "Collection of all Queries for Pirate & Fox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Justin Handley",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-tag": "^2.10.0"
+  }
+}
