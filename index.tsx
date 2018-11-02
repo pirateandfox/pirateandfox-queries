@@ -11,3 +11,5 @@ export const User = gql `
       type
     }
   }`
+
+export const Test = 'test'
